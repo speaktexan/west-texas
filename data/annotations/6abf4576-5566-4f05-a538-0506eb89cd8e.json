@@ -1,5 +1,1854 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is [INTERVIEWER], Today is June 23, 2024. And I'm here in [COMMUNITY NAME] for an\ninterview with one of our community members. Before we begin, I'd like to get your verbal consent for\nthe form that we went over. Can you please say I consent to being interviewed and audio recorded for\nthis study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3d53fef0-7d2f-4ebb-914f-99666e36a23d"
+    },
+    {
+      "start_time": 15,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d5fe8ed9-65da-41e6-a864-302b01062d15"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me a bit about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "569ca02f-f76b-4d24-bb7f-f6a13aa82bfb"
+    },
+    {
+      "start_time": 20,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, My family moved here. When I was in the sixth grade, we moved to [DIFFERENT WEST TEXAS\nREGION COMMUNITY NAME]. Uh, my father was in road construction. So we moved around a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b87a2c95-1b1d-412d-8d67-ba4782aa5565"
+    },
+    {
+      "start_time": 32,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me a bit more about this community? How would you describe it to someone who doesn't\nlive here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "29078c6f-a1b6-4d39-abc3-560c73dea73b"
+    },
+    {
+      "start_time": 39,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[COMMUNITY NAME] is basically a ,um, whole patch community. Primarily, um, we deal with energy\nproduction. So it's primarily oil, wind, solar, and ranching."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6e9e11ed-e34b-4cd2-b61e-52500b4b1d73"
+    },
+    {
+      "start_time": 57,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "56ea8860-d6ff-4cbd-a8e6-2342cb45f1a4"
+    },
+    {
+      "start_time": 61,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It has grown considerably.Uh, I think it is, um, diversified to the extent that is included wind and solar.\nUh, the oilfield has remained pretty much the same. Uh, Ranching is the same. Uh, there has been\nmore diversification because of the people that have moved in from other areas. But still, the primary\nfocus is [PHONE RINGS] oil."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a5a03d24-62f9-499e-aae9-7fab2a57c12b"
+    },
+    {
+      "start_time": 91,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2360edff-79b5-4085-bab7-8ea127f7b922"
+    },
+    {
+      "start_time": 97,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm, Primarily the, the fact that we're all in this together. Um, the, because of the of the primary focus\non oil production, uh, there is more of a community, uh, feel to it because everybody's working either for\nthe oil field or to support the oil field."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9c9651a1-1ac9-47ef-b6dd-3df3582036ff"
+    },
+    {
+      "start_time": 124,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are some of the weaknesses of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "cad16806-daa0-46ce-9aef-b46ae1dacd8c"
+    },
+    {
+      "start_time": 128,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The same thing. [LAUGHS] Uh, because it's so focused on the primary, um, oil based production. I\nthink that is probably limited us, uh, and expanding into other fields of, um, communication, uh, high\ntech, that kind of stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b908febb-ec03-4f78-84ba-2920c2b45188"
+    },
+    {
+      "start_time": 154,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me about your roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0101ca90-f697-4798-acaa-2d8d0a8101b6"
+    },
+    {
+      "start_time": 160,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "50969d07-45b5-4711-b8c1-2a16cf610ab9"
+    },
+    {
+      "start_time": 160,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your roles and relationships you have in the community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "324abefa-48fc-4a71-b5d1-3760146a7a49"
+    },
+    {
+      "start_time": 165,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, since my primary focus is health care, natural health care, uh, that's my primary focus, uh, is\ntaking care of patients, uh, that come to the office, either due to injury or illness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c47da4aa-1107-4b61-8b10-1ba095313c56"
+    },
+    {
+      "start_time": 179,
+      "end_time": 182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, what do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ab802bb2-08a1-4abd-b284-b2821082bca2"
+    },
+    {
+      "start_time": 183,
+      "end_time": 196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My primary focus is chiropractic care. Uh, but I also have a certification in functional medicine. So I deal\na lot with clinical nutrition, acupuncture. Other things along that natural healthcare line."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8eb081a0-f9ab-4840-9d77-aa278453a344"
+    },
+    {
+      "start_time": 197,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think your connections in this community influenced your work as a chiropractor?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "93cbd865-280f-42ef-a86f-9d22613707d8"
+    },
+    {
+      "start_time": 202,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, that goes back to when I was younger, and, um, I had back problems as a result of, uh, injuries.\nAnd when I was working, and when I was playing sports here. So, um, my focus on chiropractic came\nabout because, um, from the eighth grade forward, I found that chiropractic care was something that\nhelped me a lot. And I was lucky enough to become one myself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2dd88049-5a4b-4801-8b2e-0ec000e4c957"
+    },
+    {
+      "start_time": 243,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to talk a bit more about your job as a chiropractor. Can you elaborate on how you got into\nthis role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "503ff1e5-9090-4de1-9fa1-1eedd1d4554a"
+    },
+    {
+      "start_time": 250,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[SIGHS] Actually, my wife and I were in [SOUTHEASTERN CITY NAME], [SOUTH EASTERN STATE\nNAME] at the time, uh, because of my interest in chiropractic care because of my back history. Uh, my\nwife, I introduced my wife, uh, into the field. Uh, we went to a chiropractor there and he was able to help\nher with some allergy issues and other, other things that she had. Uh, at the time, I was working for the\nVA hospital as a, um, cardiovascular, uh, rehab specialist, and, uh, I had looked into a brand new field.\nIt was just opening up, uh, which was physician's assistant school. Uh, at that time, [SOUTHEASTERN\nUNIVERSITY] was one of the only schools to have one. And I made application to that. Uh, during that\ntime period, my wife and I had made friends with the chiropractor and his wife. And when he found out\nthat I was trying to apply to a physician's assistant school, he blew up and said, \"You don't want to do\nthat. You want to go to Chiropractic School. And here's why.\" And the more he explained, um, his\nposition, and I look back at the way that chiropractic had helped me since the eighth grade, and some\nof the influence I had with chiropractors during that period, I decided that that was actually probably a\nbetter direction to go. So I applied and got accepted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0227067d-f9e9-40a7-add0-f12bd8f21b4d"
+    },
+    {
+      "start_time": 354,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So how long have you been working here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8f2dfaf7-1396-42a0-a905-4d849f11a65d"
+    },
+    {
+      "start_time": 357,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Since 1983."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4e09333a-f53e-4b1a-8bdb-6e9e961b38eb"
+    },
+    {
+      "start_time": 361,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does a typical workday look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "03ecdd1b-8b18-437f-9138-f7d4dff993b6"
+    },
+    {
+      "start_time": 366,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, it's busy, uh, we see an average of about 40 to 50 patients a day. Um, range range in age from\nnewborns to elderly. Uh, we see it for all kinds of different ailments, especially because of my, um,\nfunctional medicine, um, certification. So it's not just back pain and headaches. It's also everything from\nallergies to autoimmune disease to other situations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c9a40cad-dd6b-4133-b4bd-4733676ff08d"
+    },
+    {
+      "start_time": 400,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it mean to be a chiropractor in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1c3d5c58-bb85-45df-a949-a2621fc2ec5d"
+    },
+    {
+      "start_time": 403,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[SIGH] To me, um, it's more, more functional in nature, because since I got the certifications I have, I\nview myself as both a general practitioner as well as a specialist. So my view is of , um, as a whole\nhealth practitioner for the family. Um, so I guess you could say, I'll look at family care as being my\nprimary focus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3e5ab37f-093e-4d6c-b4c5-d2fe1a6c6eb4"
+    },
+    {
+      "start_time": 445,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of this job bring you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "126d21b3-56a9-4ff9-b4c5-aa30f2fdf2d4"
+    },
+    {
+      "start_time": 449,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All of it. Uh, especially when somebody comes in, uh, and they're hurting, they can't go to work and\nthen after I see them a few times, they're able to go back and resume their normal, um, activities, um,\nor they wanna avoid surgery we get them out of surgery. Um, they want to avoid medications or\nbecause of side effects we're able to do that with a functional medicine components. Um, so it's a pretty\nwide and varied."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2d2aa6cd-f7ff-4fb4-b6bd-6e89a8e3ee15"
+    },
+    {
+      "start_time": 481,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, what are the biggest challenges you face in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "df5ef10b-8c5c-4351-a0c8-df8a473ea124"
+    },
+    {
+      "start_time": 487,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, probably, [SIGHS] to a certain degree, I guess competition? Um, not from this aspect of other\nchiropractors or that, but, um, there's so much competition from the internet from Dr. Google. Uh, those\nkinds of things so, uh, influence that the internet has had has had both a positive and negative effect on\nour practice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5d6ed94d-0520-43a8-be77-bd6da4539df7"
+    },
+    {
+      "start_time": 526,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great now let's talk about your experience as a resident of this community. For the first set of questions\nI'll read you a statement and I'd like you to indicate, uh, to what extent you agree with it. I'll have you\ngive your answer on a scale of one to four where one is completely disagree two a somewhat disagree\nthree is somewhat agree and four is completely agree. I'd like you to comment on any of the statements\nplease feel free to. The first phase is I consider myself to be an American would you say that you one\ncompletely disagree, two somewhat disagree, three somewhat agree or four completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "20410cd4-11bd-4483-bf69-cb23e6204c87"
+    },
+    {
+      "start_time": 562,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0beb7524-7c3d-4de7-a815-12aa40909904"
+    },
+    {
+      "start_time": 564,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale, how would you rate the following statement? I consider myself to be a Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "996f7abc-5e19-4d98-a031-2b886826678a"
+    },
+    {
+      "start_time": 571,
+      "end_time": 572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "07f62f82-8226-483a-bc69-198fffe345e2"
+    },
+    {
+      "start_time": 573,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with most strongly one, I'm an American first and\nTexas second. Two, I'm a Texan first and American second, or three being Texan and American are\nequally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5dbfdb35-9d68-43cf-9561-c0728af3635d"
+    },
+    {
+      "start_time": 587,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Equally important, importance of three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e95c4e1b-ddfe-4c80-8cdf-8efb7c9efe49"
+    },
+    {
+      "start_time": 591,
+      "end_time": 599,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phase is to be a true Texan, you must know how to speak English. What would you rate this\none using the same scale we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d79f1162-a572-4dd0-ba68-3f48355343b3"
+    },
+    {
+      "start_time": 600,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Say that again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "24b054f5-9512-4f59-adc4-868fda76ae1f"
+    },
+    {
+      "start_time": 601,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, to be a true Texan, you must know how to speak English. What would you rate this one using the\nsame scale we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0d57ba16-639a-4ac1-a171-419f0a460a44"
+    },
+    {
+      "start_time": 611,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, somewhat agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "df076c31-d6df-4ee9-bfa2-f677d614dd55"
+    },
+    {
+      "start_time": 611,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about to be a true Texan, you must know how to speak Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9d927f15-f319-46ac-ac58-7028e68f9e43"
+    },
+    {
+      "start_time": 618,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would like to [SIGHS], uh, I'll expand on that, I would like to I just never, I, I don't do languages very\nwell. So I would love to my father was very fluent in Spanish. And I just never got the hang of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c6f493cf-5544-4bb0-89c8-8995f6425bc9"
+    },
+    {
+      "start_time": 635,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is in my community, you do everything you want, and get everything you need, even\nwhen you don't speak English"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3980bd3e-cb81-484c-8222-14a1977b0ab6"
+    },
+    {
+      "start_time": 646,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry, that doesn't make sense."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ab8b9723-190a-4f23-86b7-bcd34cfd2191"
+    },
+    {
+      "start_time": 648,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, so you would just rate it using the same one to four scale, uh, completely disagree to completely\nagree. And so the phrases in my community, you can do everything you want, and get everything you\nneed, even when you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0d685668-2afe-4296-ba42-62fb63333588"
+    },
+    {
+      "start_time": 667,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As somebody that speaks English, I would have to disagree with that. Because I feel that if somebody\ndoes not speak English, at least to some degree, they're going to be limited by the things they can do,\nand the things and the places they can go. Uh, I don't have that limitation, so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f1ea8ec8-422e-4d62-b5d0-61b242e2c420"
+    },
+    {
+      "start_time": 693,
+      "end_time": 698,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in my community life has been pretty stable over the last 40 years, things haven't changed\nmuch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7d806562-35ad-42f0-9c3c-7f7086805dd4"
+    },
+    {
+      "start_time": 699,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, things have changed a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6b3d95cf-ae2d-4b49-9349-f5eeba9ed37d"
+    },
+    {
+      "start_time": 703,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, now, I'd like to hear from you about the community itself. What are some things that have\nchanged as community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "04672dc4-b7d0-45ca-befa-ba564092729b"
+    },
+    {
+      "start_time": 712,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, population has certainly changed. Uh, significantly round since we've been here. Uh, because this\nis an oilfield economy, we have a boom and bust type of economy. So when thing, when oil is really,\nreally good, the population soars when oil busts, the population goes down. And so does the uh,\neconomy. Uh, so the economy can be extremely good or extremely poor. Uh, we've been able to, um,\nkeep our practice open during both of those through a lot of hard work and luck."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e010e1c3-0286-412c-b324-2f0f8546005c"
+    },
+    {
+      "start_time": 760,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "232931b0-9b53-4863-a07f-cc758d78e891"
+    },
+    {
+      "start_time": 763,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8174c8df-73c5-4f3e-8d19-2f821c6538e0"
+    },
+    {
+      "start_time": 765,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was or is the best part about being a kid or a young person in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "18b54b75-8dda-4abd-bb75-40212ac18fe3"
+    },
+    {
+      "start_time": 770,
+      "end_time": 850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[SIGHS] I have to go back to probably the time, uh, because when I was a kid, many decades ago, uh,\nwe had maybe [SIGHS], I tend to think maybe a little bit more freedom. Uh, we went where we wanted\nto, we rode our bicycles to school, uh, we went over at friend's house to play all the time. Um, we didn't\nhave the internet or, or, phones or computers to deal with. So we found our own fun. Um, we spent a lot\nof time outside, especially in the summers, uh, either by choice or, or by orders from my parents. Um,\nand uh, we were told to go out and play and we came in to eat. And when we were thirsty, we drank out\nof the hose. We had to go the bathroom went to somebody's house. And, um, but, uh, we found our\nown fun, uh, through our relationships with, our, our friends, instead of phones and computers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "48b9514a-5528-4eca-9ebf-368acbcee9f1"
+    },
+    {
+      "start_time": 851,
+      "end_time": 857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that the traditional way of life in this community is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "60411829-0fa4-4bce-a739-527a3ed7e7f8"
+    },
+    {
+      "start_time": 858,
+      "end_time": 891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To degree I think it's going away every place, at least from the, the, aspect of being maybe, uh, an old\nfogy. Ah, [LAUGHS], uh, I see things changing. And you always hope for the better. Uh, I think technology being like it is has interrupted, uh, our social relationships as had, has COVID and some\nother things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "51a1bd36-7efb-4dfc-8948-862da6c14138"
+    },
+    {
+      "start_time": 892,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why do you think that's the case? Can you elaborate a bit more?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "12ad61cb-fcdb-43cf-acb1-1ed47cc1ae10"
+    },
+    {
+      "start_time": 895,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, [SIGHS] well, things have gotten certainly more complicated, um, and that's just part of technology\nand everything else has taken off. I mean, we, I got to see, uh, the first landing on the moon. Uh, my,\nmy grandparents, uh, they were, they were born before the advent of flight. And, uh, so the, the phones\nthat we have now are more powerful than the computers that they went on the moon with. Um, we're\ntalking about, you know, looking at flights toward Mars now, basically leaving and maybe, uh, inhabiting\nother planets. So it's a lot different, and in many ways better. But I think, that, that sometimes we have\nto look back at our past to, to try to hold on to our future."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "31fb72eb-4df0-40d9-8f88-daa660a7916d"
+    },
+    {
+      "start_time": 981,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, now a slightly different change. What is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1ea5a8cc-b5c5-401b-bebe-897d108647ec"
+    },
+    {
+      "start_time": 987,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Favorite sports team? The Texas Aggies. With all sports [LAUGHS]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6c197ffe-c1ef-4131-b9c2-09dca42de4f1"
+    },
+    {
+      "start_time": 996,
+      "end_time": 996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How have they been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d7c50c9a-9d41-479d-9925-15b80d8c7229"
+    },
+    {
+      "start_time": 997,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In baseball quite well. Football we'll see next year."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "79afc4dc-d877-4b0b-9d98-f26fc6445f2e"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1007,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have to do chores when you were younger? Or now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "935f1da2-9b2a-49ee-b7eb-07e57cfb8a3c"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] Or now? Um, yes, I had to do chores when I was younger."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c559afbf-1007-46ad-a5f4-5c569a90e625"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9ef276c6-6825-40db-a432-d32210cb7273"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Worse chore? Uh, I don't know about the worst chore but the biggest on the list, uh, was I took care of\nthe yard. And, uh, I was expected to do that on a timely and weekly basis regardless of anything else\nwas going on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "959bd8b7-22a7-4116-9e0d-edf9a8b5c652"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the chore? You didn't mind so much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5e812952-2a66-4a28-9d3b-415763e5e714"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taking out the trash because it was quick."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "12f61760-9b73-4419-a194-55fcb97e4c7b"
+    },
+    {
+      "start_time": 1047,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore but not really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "23c08202-868f-46a0-aa48-60465735fcab"
+    },
+    {
+      "start_time": 1051,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "11e9ca3f-54b6-4aaf-81a0-612cc4d3af3d"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "586cbb8f-0cc5-4e17-a48d-f89244a4f0e7"
+    },
+    {
+      "start_time": 1058,
+      "end_time": 1089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[SIGHS] I think to a certain degree. That may be true. It depends on the relationship that you want with\nthe opposite sex. Uh, so I found that it was hard for me to do either, initially, uh, cause I was fairly shy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "56b29f8f-d019-4757-89c1-d7cfb31240f3"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you? But then\nturned around and saw that the other person was standing right next to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6277ee9a-7adc-42a7-8f2a-c1591ac6506c"
+    },
+    {
+      "start_time": 1099,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "852e21f4-5acf-4a39-a1e1-fd9c2a0e070a"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a5f269ee-c4dd-4968-98f5-2f7a7b668142"
+    },
+    {
+      "start_time": 1103,
+      "end_time": 1106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No.[LAUGHS]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "db13f7e7-da3f-4c64-a330-53671dec571e"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people think the 1990s as the golden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ccfa13b6-49c4-44ee-849f-56ef81a899d6"
+    },
+    {
+      "start_time": 1113,
+      "end_time": 1113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No.[LAUGHS]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e7eaedde-bf59-4df0-b104-de361a1dde75"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the best decade in pop music?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "acc3c3d5-5422-425b-8aad-94469b9d7602"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 70's."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3432b76d-50c9-4fe7-96c0-e40b0a99135b"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8b7aa054-983f-4431-9573-23dc360320a1"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I got to grow up during that period of time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4e52c220-2b5d-4e09-a645-b99a47a49df7"
+    },
+    {
+      "start_time": 1120,
+      "end_time": 1162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok, thank you so much for your answers. I really appreciate you taking the time to talk with me. If you\nhave the time. I have one last request for you before we conclude our interview. One of the overarching\nresearch questions about the home to Texas program is about linguistic changes in Texas. As part of\nthis program, a linguistic researcher is asking the interview participants to read a brief passage that\nshould only take a couple of minutes. It's a short made up story about life in Texas created in 1980s.\nAnd since then, linguistic researchers have recorded a few 100 Texans reading it. They use these\nrecordings as samples of people standard way of speaking as they try to track how Texas speech\nvaries over time. Would you be willing to read this passage out loud? [SHIFTING PAPERS] Great, I'm\ngonna hand this over to you and [BUMPS RECORDER] whenever you're ready."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "02d8bdc2-b956-4bbb-afb0-2493d80861ba"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. [INAUDIBLE] I've lived in Texas all my life. I was born in Titus County. And when I was five, we\nmoved to a farm in near White House, which is [CHUCKLES] Southeast of Tyler. I liked growing up in\nthe country. When my chores were done. I'd ride my horse, climb trees or hike down to the creek to fish\nor swim One time we tied a rope to a limb of a cypress tree, and we swing out wide over the swimming\nhole and drop into the water. I pretend to be Tarzan swinging on a vine. Uh, in the spring, I'd fly kites.\nAnd on summer nights we catch fireflies, but we call them lightning bugs. Once in a while, we'd have\nfights with the corncobs or pine cones. In the winter, we build a fire and fireplace and pop popcorn and\nroast peanuts and pecans. I guess I was a live wire. When I was 19, I went to work in Dallas, and a\nFirestone Tire store. I didn't like city life and for a long time, I'd go home every chance I got. Mama\nwould always cook my favorite foods. Fried okra hopping John, that's rice and black eyed peas, and\npecan pie. We had lots of good times but going home is not the same now. After daddy died, Mama\nsold the farm and moved Tyler. I'd rather be living on a farm right now, instead of here in the city, but\nmy wife and kids don't understand me when I gripe about city life and talk about moving to the country.\nMy oldest child says Daddy, that's crazy. I'll just die if I had to live on a farm. I almost cried the first time\nshe said that. I know Texas is changing, but I try to make sure we don't lose touch with our roots. While\nwe may live in a city, I want my kids to have a good feeling for the land, have a sense of place and take\npride in being Texan. If they lose our ties to the land, the price of progress is too high.[HANDS PAPER\nBACK]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "95106ddb-97c3-471d-944f-d78f033802fc"
+    },
+    {
+      "start_time": 1297,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for contributing your voice to the collection. And thank you so much for your time to share\nexperiences with me. I really appreciate your time and generosity. If you don't have any other questions\nor comments. [RESIDENT SHAKES HEAD] I'll go ahead and stop the recording."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "157189fb-7d9f-4c82-94f0-65b598427b60"
+    },
+    {
+      "start_time": 1308,
+      "end_time": 1310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fb2e30a7-b55b-4307-a796-b86b14ad0f13"
+    }
+  ],
   "set": "Default",
   "event_id": "2f85c0e7-42af-4822-8b53-33b0d5dd5cac",
   "source_id": "627a1285-6f26-4efc-8740-06de1f9f27f3"
