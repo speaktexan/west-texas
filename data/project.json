@@ -1,1 +1,59 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"speaktexan","is_private":false,"title":"West Texas","description":"Language and Culture interviews with West Texas English speakers.","language":"en","slug":"west-texas","creator":"speaktexan","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#ADFFD9","category":"Speaker"}],"tags":[{"category":"Speaker","tag":"Interviewer"},{"category":"Speaker","tag":"Participant"}]},"created_at":"2024-11-30T02:44:11.312Z","updated_at":"2024-12-02T23:09:08.928Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "speaktexan",
+    "is_private": false,
+    "title": "West Texas",
+    "description": "Language and Culture interviews with West Texas English speakers.",
+    "language": "en",
+    "slug": "west-texas",
+    "creator": "speaktexan",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "saamturner",
+        "avatar_url": "https://avatars.githubusercontent.com/u/157153031?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "tanyaclement",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+        "admin": false
+      },
+      {
+        "login_name": "leiahnb2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186652770?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#ADFFD9",
+          "category": "Speaker"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ]
+    },
+    "created_at": "2024-11-30T02:44:11.312Z",
+    "updated_at": "2025-01-18T16:02:51.120Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
