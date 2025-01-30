@@ -16,23 +16,7 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "bayleeross",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186106695?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "JennSmith26",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186106573?v=4",
-        "admin": false
-      },
-      {
-        "login_name": "squant18",
-        "avatar_url": "https://avatars.githubusercontent.com/u/186106712?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
       "tagGroups": [
         {
@@ -52,7 +36,7 @@
       ]
     },
     "created_at": "2024-11-30T02:44:11.312Z",
-    "updated_at": "2025-01-30T22:37:56.312Z",
+    "updated_at": "2025-01-30T22:40:58.666Z",
     "generate_pages_site": true
   },
   "is_private": false
