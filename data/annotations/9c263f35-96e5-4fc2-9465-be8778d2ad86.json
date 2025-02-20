@@ -1,5 +1,3387 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is [INTERVIEWER NAME], today is June 21, 2024, and I'm here in [COMMUNITY NAME] for an interview with one of our residents. Before we begin, I'd like to get verbal consent for the form that we went over. Could you please say \"I consent to being interviewed and audio recorded for the study\"? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "36f7e456-88c3-4932-b3e9-72f2da5f8719"
+    },
+    {
+      "start_time": 16,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to being recorded for this study. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "86aa213c-8480-4be1-9b8b-61e0806680ef"
+    },
+    {
+      "start_time": 19,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, thank you. So first question, to get started, could you tell me about how you came to living in [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b608ca43-f2e1-4b3f-8f05-e50ec4c68867"
+    },
+    {
+      "start_time": 25,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, [METAL NOISE] my parents--uh, I was born in [NORTH TEXAS REGION COMMUNITY NAME], Texas, which is about 100 and, about 160 miles from here. And uh, and my dad got a job in [COMMUNITY NAME]. So we moved to [COMMUNITY NAME] and I've been here ever since. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7c8ea103-87d3-4d3d-bfcf-7103d2c4772d"
+    },
+    {
+      "start_time": 46,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay,  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0c9da34c-6acd-43bd-ab08-d28a7350b57d"
+    },
+    {
+      "start_time": 46,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "509ea910-e54f-4cdd-88cf-dbd17421b5ef"
+    },
+    {
+      "start_time": 47,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then just so you know, um I'll be trying to not interrupt the recording, so I'll be giving you like nonverbal affirmations like nodding my head.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "53431980-1de7-45de-9bce-e63616ac0874"
+    },
+    {
+      "start_time": 54,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bb2a534d-f34b-462b-90e8-4d7af9691eb4"
+    },
+    {
+      "start_time": 54,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, next question. Uh, could you tell me more about [COMMUNITY NAME]? How would you describe it to someone that doesn't live here? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6c2ff121-ab5e-4d4a-98e6-41c74f3dcf80"
+    },
+    {
+      "start_time": 62,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I love living in [COMMUNITY NAME}, because I've been here most of my life, so I know it pretty well. Um, the people are real friendly. And, um, we have some good hospitals here. There's some good schools here. And um, this is just where I've been. [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5e382b8b-5bbf-48c8-a9c7-087a147261d4"
+    },
+    {
+      "start_time": 83,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And uh also, just so you know, your identity will be completely anonymous. So if you say any, like people names or place names, I'll just take it out of the recording.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c343e3ac-1947-49eb-95fa-ebf1973493a4"
+    },
+    {
+      "start_time": 90,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4e16d376-67d3-4576-929b-e11064ea505d"
+    },
+    {
+      "start_time": 90,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you don't have to worry about that.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c7b182ee-436c-40a0-b984-5c5beb33b0a2"
+    },
+    {
+      "start_time": 91,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d98b2cf9-a5e7-43d5-8496-6a405777c45c"
+    },
+    {
+      "start_time": 92,
+      "end_time": 97,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then how would you say that [COMMUNITY NAME} has changed throughout [DESK NOISE] your time moving here? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1e99c9c4-8569-4118-adf4-bedf06cca8b6"
+    },
+    {
+      "start_time": 97,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It has grown a whole lot. [INHALE]...Actually, I lived in East [COMMUNITY NAME], when I first... came here or since I've been here, and um, I lived in East [COMMUNITY NAME], and then I moved to South [COMMUNITY NAME], when I got married. And it's just, it just grows so fast. We lived in a house on [COMMUNITY ROAD NAME] and um, [NEARBY COMMUNITY ROAD NAME], there was no houses past this. Now, it's all grown up. And then we moved about 10 years ago, further west. And there were hardly any houses across the way. And now it's grown up totally, almost, [CLEARS THROAT] to probably [DIFFERENT NEARBY WEST TEXAS REGION COMMUNITY NAME]. So it's [DESK NOISE] really grown a whole lot since I've been here.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ce0d3b7a-bc6e-4640-a531-a4eb226dc015"
+    },
+    {
+      "start_time": 147,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "135e6957-bdae-4d6e-9bbe-126cdd6d874c"
+    },
+    {
+      "start_time": 148,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of businesses have come and gone. Um, you know, it's just... a growing city. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e7d8a00e-e35c-4c67-8701-0ad152fba353"
+    },
+    {
+      "start_time": 156,
+      "end_time": 162,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. I completely agree with that.  I haven't been here long, but still. Um, and then what would you say are the strengths of [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "96383728-d0df-4d49-83ee-fded6e092c1a"
+    },
+    {
+      "start_time": 162,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] [INHALE] I would say probably that, the, the medical, medical facilities are good there. There's quite a few of them here. We have the schools for, you know, medicine, and uh, we have the college here. And so you know, this is a good place to be for medicine, more or less, and um... the traffic is not crazy, like it is in a lot of places like Dallas, is getting a little bit crazier. But you know, it's just only because we're growing. So, um, but yeah. The [HIGHWAY NAME], the interstate, everything's just growing, growing. So. [PAUSE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d73e21c6-741b-4e10-9079-253615f626ff"
+    },
+    {
+      "start_time": 210,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "517d9598-870d-4065-9701-afefe614efe8"
+    },
+    {
+      "start_time": 211,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did that answer your question? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a087f959-588d-428b-b2b9-af0cbb856e00"
+    },
+    {
+      "start_time": 213,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, yes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7d85838b-647d-4841-bc9a-18167aef4e35"
+    },
+    {
+      "start_time": 213,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INAUDIBLE, LAUGHING] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "385adec4-617f-4195-be76-2db6b28636dd"
+    },
+    {
+      "start_time": 215,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then what would you say on the other side are the weaknesses of [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c71b3c8d-33f5-46b0-a69c-08eb016c7802"
+    },
+    {
+      "start_time": 217,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The weaknesses of [COMMUNITY NAME]? Mmm, get the roads right now need a little bit more work? You know, because you're always getting it, falling into a little hole in the street [LAUGH].  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6ae61d30-b6be-4546-8cb1-c277f08bdde3"
+    },
+    {
+      "start_time": 230,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "139ccb5f-8eac-4289-956c-b469ea6a1c6e"
+    },
+    {
+      "start_time": 232,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And probably to--the wind and the dirt. But, you know, this is something you get accustomed to, but every place has their downfalls, I guess so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c8ec1629-e3b1-4d6d-928e-f541b332fcda"
+    },
+    {
+      "start_time": 245,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INAUDIBLE] And then, could you tell me about some of the roles and relationships that you have in [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8ac8ed2e-f9ab-4b9c-9c20-07d457e45d66"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rules and relationships? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6dde42ba-630e-4b7b-8ae1-28fff38b05c0"
+    },
+    {
+      "start_time": 254,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or--roles and relationships. Like for example, like if you're a mother, or,  If you're like in a church or something like that? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1a158871-9ba9-4ff3-83f9-eacd3c6f5856"
+    },
+    {
+      "start_time": 260,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, oh. Oh, yes, I do attend a church here in, in [COMMUNITY NAME]. Um, I'm a Baptist. I go, I go to a small church. It's a pretty small church. Um, my father and my stepmother were here but they both passed. O--My family grew up here, but they've all geared towards [CENTRAL TEXAS REGION COMMUNITY NAME]. [LAUGH] I have two brothers that live in [CENTRAL TEXAS REGION COMMUNITY NAME] [SNIFF]. And my mother used to, but um, I have one sister here, um. My daughter... passed away four years ago, so she no longer lives here. And then I have two grandchildren. One of my grandson actually lives with me. He's fixing to turn 17. And then I have some stepsisters, and I have a few cousins. And [LIP SMACK] so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "741b40e5-4d91-47f0-835c-9177270e17a4"
+    },
+    {
+      "start_time": 311,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then like, how, like deeply involved would you say are you like, in the community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0bac755c-ceaa-4195-80fa-bb3ca2f4fc2c"
+    },
+    {
+      "start_time": 316,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the community? Um, I'm not. [LAUGH] I mean, because I come to work every day, I'm involved with everything that surrounds my work area, you know, but the, a lot of people work here. So I'm connected to them. And uh, just, I, but as far as like, you know, I'm 70, so I don't get out much [LAUGH]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6df342b7-6c28-47ac-b673-821ab31852a9"
+    },
+    {
+      "start_time": 344,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, that's fair. [LAUGH] And then, um, what do you do for work? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "28d6dec1-d4fc-493c-a4ee-df4bb46e69ed"
+    },
+    {
+      "start_time": 349,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do I do for work, I am the senior bookkeeper for the city of [COMMUNITY NAME]. I've been here for 22 years. And before that, I worked at [SEMICONDUCTOR COMPANY] for 21. And then, in between those two, in between these two jobs, I worked for a company called [COMMERCIAL CHRISTMAS HARDWARE COMPANY]. You know, the guy that invented these shingle pads that go around  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0f343319-03b9-4f53-8939-431eeb9aefd4"
+    },
+    {
+      "start_time": 373,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ae0d0000-1ad5-44cb-a2c9-c93c3f53b4ce"
+    },
+    {
+      "start_time": 373,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Your home for Christmas, he lives here. And I worked for him for five years, but. [SIGH] So, that's my last 40 something 50 something years. [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1fdbba43-0caa-4d19-bec9-1fff0630f1a4"
+    },
+    {
+      "start_time": 383,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then how would you say that your connections in [COMMUNITY NAME] influence your work as a bookkeeper? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4d814ca3-5e6e-430a-8e8f-1d0cfc53740d"
+    },
+    {
+      "start_time": 390,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My connections in [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "36ef0ac1-1ba9-4b2c-9604-5ac0d2f34098"
+    },
+    {
+      "start_time": 391,
+      "end_time": 395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I guess your involvement, would you say that they influence your job? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b50d3f02-e12a-4455-96c3-aaff0e850f23"
+    },
+    {
+      "start_time": 395,
+      "end_time": 412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INHALE] Well, there's a lot, I pay the vendors, I pay all the vendors that wait that pave our roads that do our construction work, and people will get supplies from, and so yeah, yeah, o-. Yeah, I'm involved with a lot of people around the [COMMUNITY NAME] area. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "450c8078-c3d2-484c-bc68-918c3e38885a"
+    },
+    {
+      "start_time": 412,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then now we're gonna talk more about your job as a bookkeeper.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f8e65d46-8e8b-422b-95b2-6e081307d54a"
+    },
+    {
+      "start_time": 416,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "63a96a26-f401-429e-b2ce-458b4d31fb48"
+    },
+    {
+      "start_time": 416,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So could you tell me about how you got into this role? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "17b88e01-ea9c-41c1-859c-2b9cd6140363"
+    },
+    {
+      "start_time": 419,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, when I was at [SEMICONDUCTOR COMPANY], I started out working on the line, you know, in production. And then I started moving up into the offices. When I left there, I was the secretary for [COMMERCIAL CHRISTMAS HARDWARE COMPANY]. And um, that entailed making reservations and all that stuff. Well, they went bankrupt. So... when I applied for the city, I was applying for like an administrative assistant position. But my uh, the guy that hired me was in accounting. And he uh actually saw my resume, called me up and said, \"Can you come interview?\" so I did. [LIP SMACK] And uh that's how I started out, I, I started out doing exactly what your mom does [LAUGH].  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3a3cf6f0-14d2-4112-a334-f5ccda2fea5c"
+    },
+    {
+      "start_time": 470,
+      "end_time": 471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "cf803eaa-b005-4584-80b0-3f75624b2178"
+    },
+    {
+      "start_time": 471,
+      "end_time": 486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I just, about two years after that, um. The lady that was doing what I'm doing now, she actually left. So because that we were in the same department, I was able to move up to her position, and I've been here ever since. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c7b6383c-e0f7-4fe9-979b-69bd5fec53ba"
+    },
+    {
+      "start_time": 486,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, great. And then how long would you say you've been working here?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3cceba78-c6e0-41b1-a3ff-dd947eebb09a"
+    },
+    {
+      "start_time": 490,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "22 years.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "32bc9d75-a635-4190-a648-b4c61bd38c45"
+    },
+    {
+      "start_time": 491,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "95e2a930-c30c-478f-a8d7-73294e1398ec"
+    },
+    {
+      "start_time": 491,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "37acb567-37f9-4fdf-8117-6679d1e0bdaf"
+    },
+    {
+      "start_time": 492,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then what does a typical workday look like for you?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d7c14740-2f89-4832-97a7-6391d2310d53"
+    },
+    {
+      "start_time": 495,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well [EXHALE], the first thing I do when I come in here is I process checks. And then I also process ACHs, which is, we don't write checks over $100,000 unless we absolutely have to, there are some people that require a check. But [CLEARS THROAT] most of any, the checks that are over $100,000, are created through an ACH and directly deposited their account. So I do that, that takes probably a good couple of hours, because there's a lot of running reports, running the checks, printing them. And then uh, after that, it's mostly like, getting prepared for 1099. Because all of our vendors if they're not a corporation require 1099 and uh that's a, a good chunk of my time and answering a lot of requests, people calling looking for their money, why they haven't gotten paid, [VENTILATION BACKGROUND NOISE?] um when their check's gonna be delivered and [LAUGH] all that. So yeah, it's a pretty busy, pretty busy day, all day. [BACKGROUND NOISE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "23505896-e222-4e74-8e56-771260458ab6"
+    },
+    {
+      "start_time": 565,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. And then uh what would you say? I guess what does being a bookkeeper in [COMMUNITY NAME] mean to you? [BACKGROUND NOISE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "17a0295e-7489-4154-8fab-408cd61514d4"
+    },
+    {
+      "start_time": 571,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, well, it just means keeping uh the record straight for the city, in this particular department, because it's a lot of money going out [BACKGROUND NOISE] every day. Everyday we process checks and ACHs every day. [INTAKE BREATH] And I mean, sometimes it can be over 2 million dollars in one day. [BACKGROUND NOISE] So, um, but it's just you know, satisfying [BACKGROUND NOISE] all of our vendors and keeping them happy. And then also working well with the department keeping everybody in here happy. And, [INTAKE BREATH] so... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d5111e98-0c95-48fc-bb22-4ea421e397ba"
+    },
+    {
+      "start_time": 610,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b657a0c9-16e2-4635-aed4-0e11a1de1c22"
+    },
+    {
+      "start_time": 610,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "66f62768-bc84-4464-b3f2-d9a366bc62a1"
+    },
+    {
+      "start_time": 611,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then what would you say, uh what aspects of your job bring you the most joy or satisfaction? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "396aaa76-6448-4924-95e1-25e11b5f1c8c"
+    },
+    {
+      "start_time": 616,
+      "end_time": 652,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INTAKE BREATH] That would be the, working with the [BACKGROUND NOISE] people in my department, we've been together for a long time, most of us, and, just, everybody at the city is really um... we all get along, [BACKGROUND NOISE] for the most part, you know, so it--it's a good working environment, and then... pleasing the vendors and keeping them happy, you know, it's just a good thing to, to be able to help people out.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f6636c26-8594-4995-bf76-13c579efb0e7"
+    },
+    {
+      "start_time": 652,
+      "end_time": 656,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then what would you say are the biggest challenges that you face in your work? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3a3c5ac7-685a-40c9-ad29-a9267f342bd2"
+    },
+    {
+      "start_time": 656,
+      "end_time": 701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INTAKE BREATH] Well, we have to do a lot of checking, you know, right now we're, I mean, uh there's a lot of fraud going on, you know, around the world, you know, people are just, they have too much time on their hands, and they think their crazy ways to go in and cheat you. And so we have to be really diligent about making sure that that doesn't happen. Like if I get paperwork from one of our vendors, which we get all the time with their banking information, and we set them up, but we have to verify to make sure that they're the ones that sent it to us or that their information is, in fact, correct and not somebody else's, because it has happened.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "595f709f-ba97-46b1-9b99-b0247cc67e0f"
+    },
+    {
+      "start_time": 701,
+      "end_time": 706,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. And then now we're gonna move on and talk more about your experiences as a [COMMUNITY NAME] resident.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1971ed86-e5bf-49ad-a765-a37986b1c621"
+    },
+    {
+      "start_time": 706,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3d9137ba-ca29-42e7-9616-5926ae337b08"
+    },
+    {
+      "start_time": 707,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So um, I'll read you a statement. And then I'd like you to indicate how much you agree with each one. [BACKGROUND NOISE] And so I'll have you give your answer on a scale of one to four. One is completely disagree. Four is completely agree.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0d78ce8b-b75c-44be-84a1-d1de915fcd65"
+    },
+    {
+      "start_time": 720,
+      "end_time": 720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "74c76d1a-7f97-4db7-b017-0f59e2d667e9"
+    },
+    {
+      "start_time": 720,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then uh if you want to have any comments or relevant thoughts [BACKGROUND NOISE] on those statements, you can just say so,  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "81aead7e-5c36-4a0c-aa23-d9a887e30930"
+    },
+    {
+      "start_time": 726,
+      "end_time": 726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8355ddf0-6c91-42a5-831d-c3fbabc10ebf"
+    },
+    {
+      "start_time": 726,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So the first statement is, \"I consider myself to be an American\". [FLIPPING PAPER NOISES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "70bb14d6-568d-49bc-b4a3-d9f9a4072ab0"
+    },
+    {
+      "start_time": 732,
+      "end_time": 733,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do agree with that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7b92bb30-4c6b-4c01-a9ed-e73df0144eb1"
+    },
+    {
+      "start_time": 733,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You say you uh, I guess number four, completely agree or somewhat agree. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "75ee33b0-9b3b-446c-b6da-5640c5ccd621"
+    },
+    {
+      "start_time": 738,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d5f40c87-cd57-4b29-aed1-1a4617b0e1f4"
+    },
+    {
+      "start_time": 739,
+      "end_time": 747,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. [FLIPPING PAPER NOISES] And then the next one, um. \"I consider myself to be a Texan\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f48705d6-bb79-49fa-8bb2-c21921c5be79"
+    },
+    {
+      "start_time": 747,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I completely agree. [LAUGH] I've been in West Texas because all my life [LAUGH]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "063b87c3-b8bd-4479-bfa8-20e4f3a0973b"
+    },
+    {
+      "start_time": 751,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. And then which of these statements, I'll give you three statements  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a475ccf5-0067-4f4e-8488-7e07cf072c83"
+    },
+    {
+      "start_time": 756,
+      "end_time": 756,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "91d876f2-f75c-4ae5-9c36-7ca048d15c89"
+    },
+    {
+      "start_time": 756,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That you agree with the most strongly. First one being \"I am American first and Texan second\". Number two, \"I am Texan first and American second\", or, \"Being Texan and American are equally important to me\". [BACKGROUND NOISE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b2145391-e071-4db9-a50d-738d42afaad3"
+    },
+    {
+      "start_time": 771,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That one, that one,  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a99c3cf4-f7d1-4304-ba93-ec1f6de934b5"
+    },
+    {
+      "start_time": 772,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ee50e192-74c7-465a-8c79-d2f024c70e2a"
+    },
+    {
+      "start_time": 773,
+      "end_time": 774,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "th--number three. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "21dbd744-5d54-4e36-955c-b7f8d2fec86d"
+    },
+    {
+      "start_time": 774,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] Yes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ea819e91-abfb-449a-8c1e-0b3f9161da82"
+    },
+    {
+      "start_time": 775,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bba59cfd-e3f6-4304-9363-c285552b4d50"
+    },
+    {
+      "start_time": 775,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. And the next one. [BACKGROUND NOISE] Um, this one, you will just rate it using one to four, \"To be a true Texan, you must know how to [BACKGROUND NOISE] speak English\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "132d0f7c-987c-480e-b911-6b79d4687ec3"
+    },
+    {
+      "start_time": 785,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I don't agree with that.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "57cf14fe-f73e-4ea6-8d50-bd9fb9c5f4a9"
+    },
+    {
+      "start_time": 787,
+      "end_time": 787,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a53be402-e83a-4524-87ad-b974488964b5"
+    },
+    {
+      "start_time": 787,
+      "end_time": 792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, you know, because we have people that don't, so. I mean, they seem to be okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "cf42b7fe-7525-488d-8b60-f9bf0165e56e"
+    },
+    {
+      "start_time": 792,
+      "end_time": 797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Would you say like a one, completely disagree then? Or two? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d2ea01e0-dc17-48c0-992b-82bcc3877f55"
+    },
+    {
+      "start_time": 797,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eh, two in the middle? Yeah.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0e1ab6bf-ca19-4672-9421-506fbb7a0f45"
+    },
+    {
+      "start_time": 799,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then the next one, \"To be a true Texan, you must know how to speak Spanish\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "216f8a3f-1975-4bab-b76a-b406e57265ba"
+    },
+    {
+      "start_time": 806,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[BACKGROUND NOISE] No, I don't agree with that [LAUGH]. Number two. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3862c385-23f5-4e0c-a51a-7ae66b802e75"
+    },
+    {
+      "start_time": 810,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. The next one, \"In my community, [BACKGROUND NOISE] you can do everything you want and get everything you need even when you don't speak English\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f8d99646-66dd-4a5c-8a7f-47f3d8f5c8f2"
+    },
+    {
+      "start_time": 819,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you can, you just have to find somebody that can help you out with, you know, your, language barrier, [BACKGROUND NOISE] you know, to help you decipher what you're needing, but I think you yeah, [BACKGROUND NOISE] I think you could. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "cc073413-8b65-47f5-ad5f-5de344e31068"
+    },
+    {
+      "start_time": 835,
+      "end_time": 837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so would you say like three, like somewhat agree? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f32d2221-0565-4ddc-beef-ca879691e4f7"
+    },
+    {
+      "start_time": 837,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, somewhat agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bd0bf7de-69c9-4ff7-88d8-2b89ab5c6e62"
+    },
+    {
+      "start_time": 839,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then last statement, \"In my community, life has been pretty stable [BACKGROUND NOISE] over the last four years, things haven't changed much\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "68cd3134-0d28-4e66-b596-b1fd9ec0eec3"
+    },
+    {
+      "start_time": 846,
+      "end_time": 878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm... [BACKGROUND NOISE] Well, you know, [EXHALE, INHALE] I lost my daughter. So that, that doesn't, [INHALE] I kind of disagree there. Because, you know, I mean, as far as everyday life, it's, it hasn't changed much. You know, I've just grown with the city, have grown with my family and grown with my job. But, you know, that's not, to me, losing my child was the worst thing that's ever happened.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "eef59263-e521-45e2-aec5-c6d35c82ea1e"
+    },
+    {
+      "start_time": 878,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. No I completely, um, I'm sorry to hear that.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f85bfea2-2ec0-48df-9681-dd50f121ecef"
+    },
+    {
+      "start_time": 882,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c224f5b3-a7e3-417d-a79d-a124b56a7e9d"
+    },
+    {
+      "start_time": 883,
+      "end_time": 889,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, um now we'll be moving on to talking about the community itself.  What are some of the things that have, oh, well, I guess I've already asked you this, but any like major things that have changed in [COMMUNITY NAME] during the last few decades. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "80a7bb3f-b50b-4b46-8ef7-74bee34955f5"
+    },
+    {
+      "start_time": 889,
+      "end_time": 928,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. [SIGH] Oh gosh, I, I would say, the medical field has changed. I mean, it's grown a lot since I've been here. [INHALE] But there's so much... growing that, you know, people come, people go and... restaurants change. And... I mean, you know, just your typical stuff that changes as we grow. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "99e5814e-2332-40eb-bf87-6163ffc35798"
+    },
+    {
+      "start_time": 928,
+      "end_time": 933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I totally agree with that. And then uh do you think overall, [COMMUNITY NAME] is a good community to live in? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "635e0b6b-0d71-4b55-87bf-f1f8bb070f64"
+    },
+    {
+      "start_time": 933,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I do. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0aa2c8ac-e2d9-48ce-984e-b2192e9b7fab"
+    },
+    {
+      "start_time": 934,
+      "end_time": 935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. And, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3d71e900-25f5-437b-99ef-bf4a2a219273"
+    },
+    {
+      "start_time": 935,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I do. I like living here. I, I mean, I don't know this, because I don't know any better, but [LAUGH]. But I've been to lots of places. So, you know, and there are places that you know, it's just that I've, I've grown up here, and I just, this where my family was, and I just stay, now my grandkids are here. So it's like, eh.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fc62d1fd-df80-4034-b2e4-516efd1bdcae"
+    },
+    {
+      "start_time": 956,
+      "end_time": 964,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. And then, what do you think is or was the best part about being a kid or young person in [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d8719178-1941-4cba-a9b5-ee5167608482"
+    },
+    {
+      "start_time": 964,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, when I was younger, you know, it was, it was fun, we could go to the park without having to worry about being picked up. I mean, we probably should have back then. But, it things just didn't happen like they do these days. Because the whole world was just getting so crazy. You know, it's not just here. It's everywhere. So but yeah, I, I loved being a kid, you know, running around until dark. Then your mom starts yelling at you to come in. And [LIP SMACK] yeah, lots of little kids running around and just being you know, you could, you were not so sheltered, more or less like you have to do kids today, kids still have the advantage of doing things here, whereas they don't somewhere else. But like, it's just crazy out there. There's just so many. There's so much evil, so many people are looking to do bad things. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6e680c4b-90ce-4c21-82b2-148bad3202fc"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c2fa049a-bd8e-469d-9220-ab18b9b3f2ac"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's bad. [LAUGH]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b654b0d5-bfd3-4a4a-9df0-5b9a0359d5f8"
+    },
+    {
+      "start_time": 1028,
+      "end_time": 1037,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then um, next question, do you feel that the traditional way of life in [COMMUNITY NAME] is going away? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5b15ec18-5043-4e1f-bfca-7c4e5a7d9f7c"
+    },
+    {
+      "start_time": 1037,
+      "end_time": 1047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eh, no, not really. I don't feel like it. Y'know--I don't know if it's because I'm just stuck in my ways. And I don't y'know. But [LIP SMACK] I don't think so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "eef6621e-2d42-4d14-b175-ee75511b16f8"
+    },
+    {
+      "start_time": 1047,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. And then why do you think, um, or what do you think keeps things the same then? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "083ea057-e18e-45ed-8f97-6c0207f2871a"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1098,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um... just normalcy. I guess, you know, people who want to work. Uh, not trying to start trouble. You know, like, I guess I'll watch too much news, but there's just so much hate in, that you hear about in different places. And it's just [LIP SMACK] like riots, protesting, all that and you just don't--you have that here probably, but not to the extent you see it somewhere else. So that to me is, I see that and I see chaos and I'm here so it's, you know, I feel like it's good. Normal. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6d0cea86-003b-41fb-8ec5-a720e6f48ef3"
+    },
+    {
+      "start_time": 1098,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I, I can like see that, yeah.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5081728f-b43e-4291-a623-96a2c504a13b"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3cc17c99-a4e4-4186-9f64-b9c357cca000"
+    },
+    {
+      "start_time": 1102,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then uh it's a little random, but do you have a favorite sports team? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "60e11e30-8e90-493d-9270-6024001cf4d3"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A sports team? [LIP SMACK] I'm not really into sports, but I would say the Texas Rangers as far as that you know, I'd probably be more prone to watch them and I mean, my husband watches sports all the time. So I get to watch it with him but, um, as far as picking somebody would probably be the Dallas Rangers, I went to see them you know, play a game and it was fun, and. [INHALE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0ac84e36-bb24-4e2b-bb64-a8ee3e8cf7ce"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9e2f9c14-87e6-4aee-8dff-b2c8d05d8f77"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I guess I should've said [COMMUNITY UNIVERSITY SPORTS TEAM]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "715af93a-eb72-4fac-bb00-fc74441a6d42"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] No, that's fine. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "768100db-3b7c-45f1-ab74-5756ccfbce39"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] You know, I do like to watch [INAUDIBLE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5094932e-c7b8-443b-b9bf-57aa85a9edcf"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2a648a39-d508-4c2c-a082-923993ea8b40"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh years ago actually, uh, my grandson's uh dad, played football there.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "be9e89f3-32a1-45a3-abfa-36b1f4dbb809"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "50d43079-51f2-4049-911d-9066bd21f7c5"
+    },
+    {
+      "start_time": 1149,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you know I really got into it that year but... [CLEAR THROAT] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b57d77f4-562a-4279-bf5f-4329738130f4"
+    },
+    {
+      "start_time": 1154,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "de4cba52-3579-42fc-8ae7-00cf56c086c3"
+    },
+    {
+      "start_time": 1154,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fd6b1382-411c-4eb0-8242-b9608c293f00"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then uh did you have to do chores when you were younger? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c7a34502-348e-40f4-8af0-a886f3e02678"
+    },
+    {
+      "start_time": 1159,
+      "end_time": 1161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LIP SMACK] Yes ma'am, I did.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fb8e27d7-4de1-4860-8bec-36fee3eb4982"
+    },
+    {
+      "start_time": 1161,
+      "end_time": 1163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then what would you say was the worst chore? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "84b82e49-1f47-49b8-add0-8321f598c2b1"
+    },
+    {
+      "start_time": 1163,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INHALE] Uh, well, I babysit my brothers and sisters and they fought all the time. So probably that, [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a3ef2eb9-03c3-47ef-85b1-b05c7ed0abf6"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d48825e9-cd0d-444d-b73d-3c36204ef8b1"
+    },
+    {
+      "start_time": 1171,
+      "end_time": 1176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I don't guess you'd consider that a chore but, but it was to me. [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "64f294ed-c7cd-49e6-b092-39d794e1b2a8"
+    },
+    {
+      "start_time": 1176,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, and then what was a chore that you didn't mind so much? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e0b47e1b-9c8f-4ade-8ba7-7e365ff01a8d"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, [LIP SMACK] I would say cleaning. You know, you know, it didn't bother me to pick up after myself or clean my room or [INAUDIBLE]  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e328050e-feb1-4a58-b2f2-9a3c12a83cbe"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PAPER NOISE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9aab5a66-3e83-419b-9a20-f78da661aa7c"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Make things organized around the house. That stuff didn't bother me. So. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5bbae2a0-f9ac-4c37-89f4-dcdbc0009085"
+    },
+    {
+      "start_time": 1197,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And then um, A lot of people think of the 1990s as a golden decade of pop music. Do you agree? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9d42d08a-1632-453f-a0fe-bc3206a39a10"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would agree. I guess, I,  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2ff03f6a-3dd1-42c5-adc8-96b371e1bb1f"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a24f2c3b-cc1b-4edf-b230-a40cead23484"
+    },
+    {
+      "start_time": 1210,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's really funny. I'm not a music person either, um, I. I listen to country music, but not a lot... Now, my husband? Yes, he would say yes. [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4ea2bf00-7932-4c43-8e1c-c17f679a6bca"
+    },
+    {
+      "start_time": 1224,
+      "end_time": 1230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. All right, and that is the end of all the interview questions. Thank you so much for your answers, um.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6b0eeb2b-7b82-4731-9061-750d5cc1c721"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "01481c1d-1a5a-428c-8695-a8422486839f"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there is a reading passage part, um. There is a part of this project where um, a linguistic researcher is asking that interview par--participants read a brief passage. Uh it's very short, it's on the back of this page.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9fefcb02-27f1-4648-8d15-7fbed16ba0de"
+    },
+    {
+      "start_time": 1244,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh huh. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6ee20515-e731-4e0b-a91a-19d09882503f"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They basically use it to analyze how Texas people's way of changing, way of speaking has  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3b26c5b6-93e8-4973-a655-d06ddd4fa79c"
+    },
+    {
+      "start_time": 1251,
+      "end_time": 1251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bb5a29a9-a590-431c-8771-964ed5489812"
+    },
+    {
+      "start_time": 1251,
+      "end_time": 1253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Changed over time.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b020984d-8bdc-4362-8968-0240b0095dd3"
+    },
+    {
+      "start_time": 1253,
+      "end_time": 1253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5ad1e3f2-352c-491f-9ee1-616bc1060c6d"
+    },
+    {
+      "start_time": 1253,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um. So would you like to read it? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c226c9ee-c8af-4423-b3b0-583fb41b76d4"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With our drawling[?] [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4c5668f2-fe27-4783-af60-ef13b758e90d"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, yeah. Would you like to read it? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a7c14db5-157b-4154-ac9b-ec441a19d293"
+    },
+    {
+      "start_time": 1257,
+      "end_time": 1257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "83d6ead8-4340-42b1-8332-8c9559436232"
+    },
+    {
+      "start_time": 1257,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PAPER NOISES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ab0710b5-298c-4b71-aa1a-c28217558d4a"
+    },
+    {
+      "start_time": 1258,
+      "end_time": 1259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I mean, if you want me to, I'll read it to you.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "80a509cd-b73c-43ad-8c71-ca7960f5dd3d"
+    },
+    {
+      "start_time": 1259,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGH] [HANDS READING PASSAGE] There you go.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ac968381-edf4-4959-ac6c-78a55f30a9d1"
+    },
+    {
+      "start_time": 1262,
+      "end_time": 1384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. \"I've lived in Texas all my life. I was born in Titus County. And when I was five, we moved to a farm nill-near White House, which is southeast of Tyler. I liked growing up in the country. When my chores were done, I ride my horse, climb trees or hide down to the creek to fish or swim. One time we tied a rope to a limb of a cypress tree, and we'd swing out over the swimming hole and drop into the water. I'd pretend to be Tarzan swinging on a vine. In the spring, I'd fly kites and on summer nights, we'd would catch butterflies, but we call them lightning bugs. Once in a while we'd have fights with corn cobs or pine cones, in the winter we'll build a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was a live wire. When I was 19 I went to work in Dallas at Firestone Tires Store. I didn't like city life and for a long time I'd go home every chance I got. Mama would always cook my favorite foods, fried okra, hoppin john, that's rice and black eyed peas, and pecan pie. We had a lot of good times, but going home, it's not the same now. After daddy, died, Mama sold the farm and moved to Tyler. I'd rather be living on a farm, now instead of here in the city, but my wife and kids don't understand me when I gripe up about city life and talking about moving to the country. My oldest child says \"Daddy, that's crazy. I'd just die if I had to live on a farm\". I almost cried the first time she said that. I know Texas is changing, but I try to make sure we don't lose touch with our roots. While we may live in a city, I want my kids to have a good feeling for the land, have a sense of place and take pride in being Texans. If they lose our lives to the land--If they lose our ties to the land, the price of progress is too high.\" [PAPER NOISES]  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fec1d816-700a-4ec7-a60b-d15eaff2caa7"
+    },
+    {
+      "start_time": 1384,
+      "end_time": 1386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, thank you so much. [LAUGH] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0185f2b8-b1aa-4e80-ae2f-04f0256e18d5"
+    },
+    {
+      "start_time": 1386,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're very welcome.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f35a717e-d192-49b2-bc97-63a8d3bb147e"
+    },
+    {
+      "start_time": 1387,
+      "end_time": 1391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then um, if you don't have any uh questions or comments, I'll go in and stop the recording now.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0a6d3001-d003-439e-ad9d-a1847a125c4f"
+    },
+    {
+      "start_time": 1391,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LIP SMACK] I don't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4d0b2c8f-ad15-4509-95c3-e1fd00ca04d6"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "cff986b5-ecd1-42ab-859a-536b3d4a2f7e"
+    }
+  ],
   "set": "Default",
   "event_id": "1b4816dc-c14f-4745-b25f-47066f7edd6a",
   "source_id": "bbbf66c7-7b11-4436-9958-54ed031cfd24"
