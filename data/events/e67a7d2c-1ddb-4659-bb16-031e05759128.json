@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "fa8fdd66-d22e-4f36-8ebc-b838884b0b8e": {
+      "label": "Language_El Paso_IF_06022024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/if-06022024/IF_06022024.m4a",
+      "duration": 1878,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_El Paso_IF_06022024",
+  "created_at": "2025-02-20T19:17:36.380Z",
+  "created_by": "squant18",
+  "updated_at": "2025-02-20T19:17:36.380Z",
+  "updated_by": "squant18"
+}
