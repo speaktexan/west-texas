@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "2688c4cd-1f69-4eeb-8c73-4ddec94e12d5": {
+      "label": "Language_Lubbock_KP_06172024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/kp-06172024/KP_06172024.m4a",
+      "duration": 1494,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Lubbock_KP_06172024",
+  "created_at": "2025-02-20T19:19:08.230Z",
+  "created_by": "squant18",
+  "updated_at": "2025-02-20T19:19:08.230Z",
+  "updated_by": "squant18"
+}
